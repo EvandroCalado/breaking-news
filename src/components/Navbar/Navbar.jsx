@@ -1,5 +1,5 @@
-import logo from "../images/logoBN.png";
-import { Button, Nav, ImageLogo, InputSpace } from "./NavbarStyled";
+import logo from '../images/logoBN.png';
+import { Button, Nav, ImageLogo, InputSpace } from './NavbarStyled';
 
 const Navbar = () => {
   return (

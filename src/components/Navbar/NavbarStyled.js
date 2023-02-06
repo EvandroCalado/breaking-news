@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Nav = styled.nav`
   display: flex;
@@ -62,7 +62,7 @@ export const Button = styled.button`
   transition: all 0.2s ease-in-out;
   cursor: pointer;
   border-radius: 0.3rem;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   letter-spacing: 0.1rem;
 
